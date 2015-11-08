@@ -1,0 +1,23 @@
+name: Jump4Goal
+favicon: null
+layout_spectrum: 0.7771000545471907
+typography_spectrum: 0.03448227792978287
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.5918372955638915
+  lightness: 0.6927478979341686
+  saturation: 0.7102965728845447
+  rhythmicContrast: 0.24643370043486357
+purpose: []
